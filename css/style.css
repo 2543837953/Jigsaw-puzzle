@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#game {
+    display: flex;
+}
+
+#game > div {
+    margin: 20px;
+    position: relative;
+}
+#game > div>div{
+    position: absolute;
+    /*transition: all 0.5s initial;*/
+}
