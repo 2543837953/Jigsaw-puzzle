@@ -1,6 +1,6 @@
 // 游戏名字:拖拽拼图
 // 作者:杜茂非
-// 描述:控制div实现游戏
+// 描述:控制div实现拼图游戏
 // 完成时间:2020年4月8日
 // 邮箱:2543837953@qq.com
  let file = document.querySelector('#file');
